@@ -1,6 +1,22 @@
 # MindFlow
 Multi Functional Productivity Tool
-# Introduction
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+    - [Notes Section](#1-notes-section)
+    - [Calendar Section](#2-calendar-section)
+3. [How to Use](#how-to-use)
+4. [Productivity Tracker](#productivity-tracker)
+5. [Mind Map Creator](#mind-map-creator)
+6. [Bonus Features](#bonus-features)
+7. [Contributing](#contributing)
+8. [License](#license)
+
+
+
+## Introduction
+
 Welcome to the Ultimate MindFlow!
 
 This responsive productivity website is your one-stop solution to streamline your daily tasks, organize ideas, and boost efficiency. Designed with vibrant visuals and a user-friendly interface, it seamlessly combines functionality and style to keep you focused and productive.
@@ -19,7 +35,7 @@ Mind Map Creator: Visualize and connect ideas in a creative, drag-and-drop inter
 
 With smooth transitions, light/dark mode, and optimized accessibility, this platform is built to empower you on any device. Let’s make productivity simple, engaging, and impactful—start your journey now!
 
-# Features  
+## Features  
 
 This productivity website is designed to help users efficiently manage their daily tasks, organize ideas, and track productivity. Below is a detailed explanation of each core and bonus feature:  
 
