@@ -4,14 +4,10 @@ Multi Functional Productivity Tool
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-    - [Notes Section](#1-notes-section)
-    - [Calendar Section](#2-calendar-section)
 3. [How to Use](#how-to-use)
-4. [Productivity Tracker](#productivity-tracker)
-5. [Mind Map Creator](#mind-map-creator)
-6. [Bonus Features](#bonus-features)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [Technical Details](#technical-details)
+5. [Future Enhancements](#future-enhancements)
+
 
 
 
@@ -281,7 +277,7 @@ You are now ready to use all the powerful features of this productivity website!
 Let us know if you need any help or feedback by contacting us via the contact section.
 
 
-# Technical Details
+## Technical Details
 
 This website was built using the following technologies:
 
